@@ -1,0 +1,10 @@
+name: Microstructures
+description: Create miniature Minecraft builds.
+version: 0.1-SNAPSHOT
+author: Blockcade
+main: us.blockcade.microstructures.Main
+
+commands:
+  microstructure:
+    description: Base Microstructures command.
+    aliases: [ms, micro]
